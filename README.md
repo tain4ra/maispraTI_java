@@ -54,8 +54,6 @@ Este repositório reúne diversos programas desenvolvidos em Java, com a finalid
 2. **Abra o projeto** no IntelliJ IDEA.
 3. **Execute as classes principais** para testar cada exercício.
 
-## Desenvolvido por
-### Tainara Alves Pereira
+### Desenvolvido por: Tainara Alves Pereira
 
-## Data de entrega
-### 21 de dezembro de 2024
+### Data de entrega: 21 de dezembro de 2024
