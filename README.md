@@ -6,13 +6,9 @@ Módulo de java do curso FullStack Developer Jr. da +PraTI
 
 Este repositório reúne diversos programas desenvolvidos em Java, com a finalidade de exercitar e aperfeiçoar as competências em **lógica de programação**. Cada exercício foi projetado para enfrentar um desafio particular apresentado na Atividade 8 da Codifica Edu.
 
----
-
 ## Estrutura do Projeto
 
 - **Pacote**: `Lista_de_exercicios`
-
----
 
 ## Descrição dos Exercícios
 
@@ -42,14 +38,12 @@ Este repositório reúne diversos programas desenvolvidos em Java, com a finalid
 ### 7. **Contador de Palavras**
 - **Objetivo**: Lê uma frase e conta o número de palavras nela, considerando espaços em branco como separadores.
 
----
 
 ## Tecnologias Utilizadas
 
 - **Java 17**
 - **IntelliJ IDEA**
 
----
 
 ## Como Executar
 
