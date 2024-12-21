@@ -2,7 +2,7 @@
 Módulo de java do curso FullStack Developer Jr. da +PraTI
 
 # Atividade 8
-Lista de Exercícios - Praticando Lógica de Programação em Java
+### Lista de Exercícios - Praticando Lógica de Programação em Java
 
 Este repositório reúne diversos programas desenvolvidos em Java, com a finalidade de exercitar e aperfeiçoar as competências em **lógica de programação**. Cada exercício foi projetado para enfrentar um desafio particular apresentado na Atividade 8 da Codifica Edu.
 
